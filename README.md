@@ -35,7 +35,7 @@ This archive is for _The Turing Way_'s Fireside Chats, which have been hosted si
 | Navigating Growth and Scale to Sustain Open Communities | 2022-07-29 | | |
 | Reflections, Replications and Perspectives from The Turing Way | 2022-06-30 | | |
 | Enabling Inclusive Research Conferencing in the 'Post-Pandemic Era' | 2022-04-29 | | |
-| Emergent Roles in Resarch Infrastructure | 2022-02-11 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022) | |
+| Emergent Roles in Resarch Infrastructure | 2022-03-25 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022) / [Github]('*/20220325-fireside-chats.md') | |
 | Gaps & Opportunities for Inclusive Multilingual Data Science | 2022-02-11 | | |
 
 ## 2021
