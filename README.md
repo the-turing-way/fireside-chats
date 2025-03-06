@@ -6,13 +6,14 @@ This archive is for _The Turing Way_'s Fireside Chats, which have been hosted si
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-|  | | | |
+| Nuturing Open Science in Challenging Economic and Political times | 2025-03-06 | | |
 
 ## 2024
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-|  | | | |
+| Addressing mental health in academia: building a collaborative ecosystem to affect sustainable culture change | 2024-09-12 | | |
+| Making things more accessible in Data Science | 2024-06-07 | | |
 
 ## 2023
 
