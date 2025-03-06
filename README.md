@@ -25,7 +25,14 @@ This archive is for _The Turing Way_'s Fireside Chats, which have been hosted si
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-|  | | | |
+| Supporting Citizen and Participatory Science Communities | 2022-10-28 | | |
+| Connecting Open Hareware to Open Science | 2022-09-30 | | |
+| Defining 'Open Infrastructure' in Different Contexts | 2022-08-24 | | |
+| Navigating Growth and Scale to Sustain Open Communities | 2022-07-29 | | |
+| Reflections, Replications and Perspectives from The Turing Way | 2022-06-30 | | |
+| Enabling Inclusive Research Conferencing in the 'Post-Pandemic Era' | 2022-04-29 | | |
+| Emergent Roles in Resarch Infrastructure | 2022-02-11 | | |
+| Gaps & Opportunities for Inclusive Multilingual Data Science | 2022-02-11 | | |
 
 ## 2021
 
