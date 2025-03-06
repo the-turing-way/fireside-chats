@@ -18,8 +18,11 @@ This archive is for _The Turing Way_'s Fireside Chats, which have been hosted si
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-|  | | | |
-
+| Adopting open source in Data Science and AI across sectors: Case study series | 2023-12-11 | | |
+| Who is building open source AI? | 2023-09-21 | | |
+| Between computation, climate and culture: perspectives on sustainability and research | 2023-06-29 | | |
+| Implementing open science at scale | 2023-05-05 | | |
+| Reflect, Unlearn, Reframe: Community Care in times of digital burnout | 2023-03-31 | | |
 
 ## 2022
 
