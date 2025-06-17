@@ -2,6 +2,8 @@
 
 This archive is for _The Turing Way_'s Fireside Chats, which have been hosted since 2021.
 
+The Turing Way Fireside Chat series aims to foster discussions on topics of broad interest to the research community. It is a space for cross-community collaborations and for exchanging common experiences and resources. You can learn more about our Fireside Chats in our Community Handbook: https://book.the-turing-way.org/community-handbook/fireside-chat.html.
+
 ## 2025
 
 | Name | Date | Notes link | Youtube link |
@@ -19,24 +21,24 @@ This archive is for _The Turing Way_'s Fireside Chats, which have been hosted si
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-| Adopting open source in Data Science and AI across sectors: Case study series | 2023-12-11 | | [Youtube](https://www.youtube.com/watch?v=NdmkaRmY6jI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=4) |
-| Who is building open source AI? | 2023-09-21 | | [Youtube](https://www.youtube.com/watch?v=e8EBI1ocxt4&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=5) |
-| Between computation, climate and culture: perspectives on sustainability and research | 2023-06-29 | | [Youtube](https://www.youtube.com/watch?v=vrkFFswPGOE&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=6) |
-| Implementing open science at scale | 2023-05-05 | | [Youtube](https://www.youtube.com/watch?v=8MnYZpwzpfU&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=7) |
-| Reflect, Unlearn, Reframe: Community Care in times of digital burnout | 2023-03-31 | | [Youtube](https://www.youtube.com/watch?v=IfNn4WgBUCQ&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=8) |
+| Adopting open source in Data Science and AI across sectors: Case study series | 2023-12-11 | [Etherpad] / [Github] | [Youtube](https://www.youtube.com/watch?v=NdmkaRmY6jI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=4) |
+| Who is building open source AI? | 2023-09-21 | [Etherpad] / [Github] | [Youtube](https://www.youtube.com/watch?v=e8EBI1ocxt4&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=5) |
+| Between computation, climate and culture: perspectives on sustainability and research | 2023-06-29 | [Etherpad] / [Github] | [Youtube](https://www.youtube.com/watch?v=vrkFFswPGOE&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=6) |
+| Implementing open science at scale | 2023-05-05 | [Etherpad] / [Github] | [Youtube](https://www.youtube.com/watch?v=8MnYZpwzpfU&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=7) |
+| Reflect, Unlearn, Reframe: Community Care in times of digital burnout | 2023-03-31 | [Etherpad] / [Github] | [Youtube](https://www.youtube.com/watch?v=IfNn4WgBUCQ&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=8) |
 
 ## 2022
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-| Supporting Citizen and Participatory Science Communities | 2022-10-28 | | [Youtube](https://www.youtube.com/watch?v=DaPydydUcOc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=9) |
-| Connecting Open Hareware to Open Science | 2022-09-30 | | [Youtube](https://www.youtube.com/watch?v=A2ufANMIDxo&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=10) |
-| Defining 'Open Infrastructure' in Different Contexts | 2022-08-24 | | [Youtube](https://www.youtube.com/watch?v=ZE2NXe74nSc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=11) |
-| Navigating Growth and Scale to Sustain Open Communities | 2022-07-29 | | [Youtube](https://www.youtube.com/watch?v=p0t_K5FNalU&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=12) |
-| Reflections, Replications and Perspectives from The Turing Way | 2022-06-30 | | [Youtube](https://www.youtube.com/watch?v=EeeRZZ3-Stc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=13) |
-| Enabling Inclusive Research Conferencing in the 'Post-Pandemic Era' | 2022-04-29 | | [Youtube](https://www.youtube.com/watch?v=ImwJqo1zbMI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=14) |
-| Emergent Roles in Resarch Infrastructure | 2022-02-11 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022) / [Github](20220325-fireside-chats.md) | [Youtube](https://www.youtube.com/watch?v=i3_GFRS-u-Q&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=15) |
-| Gaps & Opportunities for Inclusive Multilingual Data Science | 2022-02-11 | | [Youtube](https://www.youtube.com/watch?v=Ydogg2tQljA&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=16) |
+| Supporting Citizen and Participatory Science Communities | 2022-10-28 | [Etherpad] / [Github] | [Youtube](https://www.youtube.com/watch?v=DaPydydUcOc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=9) |
+| Connecting Open Hareware to Open Science | 2022-09-30 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-sep2022) / [Github] | [Youtube](https://www.youtube.com/watch?v=A2ufANMIDxo&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=10) |
+| Defining 'Open Infrastructure' in Different Contexts | 2022-08-24 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-aug2022) / [Github] | [Youtube](https://www.youtube.com/watch?v=ZE2NXe74nSc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=11) |
+| Navigating Growth and Scale to Sustain Open Communities | 2022-07-29 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-july2022) / [Github]() | [Youtube](https://www.youtube.com/watch?v=p0t_K5FNalU&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=12) |
+| Reflections, Replications and Perspectives from The Turing Way | 2022-06-30 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-june2022) / [Github](/notes/20220630-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=EeeRZZ3-Stc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=13) |
+| Enabling Inclusive Research Conferencing in the 'Post-Pandemic Era' | 2022-04-29 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-apr2022) / [Github](/notes/20220429-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=ImwJqo1zbMI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=14) |
+| Emergent Roles in Resarch Infrastructure | 2022-02-11 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022) / [Github](/notes/20220325-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=i3_GFRS-u-Q&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=15) |
+| Gaps & Opportunities for Inclusive Multilingual Data Science | 2022-02-11 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-feb2022) / [Github](/notes/20220211-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=Ydogg2tQljA&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=16) |
 
 ## 2021
 

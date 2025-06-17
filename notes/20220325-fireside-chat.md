@@ -4,7 +4,7 @@
 
 ### Title:\*\* Emergent Roles in Research Infrastructure & Technology\*\*
 
-*This session will be hosted by **Arielle Bennett and Jennifer Ding****. They will be joined by ***Abinaya Mahendiran\*\* (Nunnari Labs)**, Marzieh Fadaee** (Cohere for AI), **David Gray Widder** (Cornell Tech), and **Mophat Okinyi** (African Content Moderators Union).\*\* \*\*
+*This session will be hosted by Beth Duckles and Arielle Bennett, featuring insights from Noor Shaker, Esther Plomp and Borhane Blili-Hamelin.*
 
 **Read more about them on the Event page: **
 
@@ -13,12 +13,12 @@
 
 
 
-   * **Date:** 25 March 2022
-   * **Time: **17:00 - 18:30 UTC (starting time in your time zone: [https://arewemeetingyet.com/london/2022-03-25/17:00)](https://arewemeetingyet.com/london/2022-03-25/17:00))
-   * **Who should join?** ***Anyone***\* interested in learning more about translation of technical resources in data science and research. \*
-   * **How you can join? Eventbrite page: **[https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527](https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527) \<--- **Please register to receive a Zoom link.**
-	   * *The Zoom's waiting room is enabled. The host of this call will let you in.*
-	   * ***All questions, comments, and recommendations are welcome on this Etherpad or on Zoom chat!***
+* **Date:** 25 March 2022
+* **Time: **17:00 - 18:30 UTC (starting time in your time zone: [https://arewemeetingyet.com/london/2022-03-25/17:00)](https://arewemeetingyet.com/london/2022-03-25/17:00))
+* **Who should join?** ***Anyone***\* interested in learning more about translation of technical resources in data science and research. \*
+* **How you can join? Eventbrite page: **[https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527](https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527) \<--- **Please register to receive a Zoom link.**
+   * *The Zoom's waiting room is enabled. The host of this call will let you in.*
+   * ***All questions, comments, and recommendations are welcome on this Etherpad or on Zoom chat!***
 
 
 **Fireside Chat is an informal event series that features people and projects in reproducible research.**
