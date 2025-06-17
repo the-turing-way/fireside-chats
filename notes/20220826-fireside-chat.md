@@ -20,14 +20,11 @@
 *Thank you for joining us! We’re delighted to have you here.*
 
 
-
 ## 🔥 Propose a topic for a future Fireside Chat
 
 *Can’t join this event but want to get involved? Check out other ways of connecting with us: *[http://bit.ly/turingway](*http://bit.ly/turingway*)
 
 We are looking for proposals for future discussions on *building cross-community collaborations, establishing context-specific support systems and working together towards global sustainability of the open infrastructure as part of this event series. Please propose your suggestion below or reach out to Anne Lee Steele and Malvika Sharan by emailing theturingway@gmail.com.*
-
-
 
 **📢 Who should we feature/invite in the next session?**
 
@@ -38,9 +35,6 @@ We are looking for proposals for future discussions on *building cross-community
 * Best practices for ML documentation
 * Accessibility and Inclusion in Open science
 * Reproducibility in different contexts and fields
-* 
-
-*  
 
 
 ## 🗣️Welcome!
