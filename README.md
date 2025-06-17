@@ -21,7 +21,7 @@ The Turing Way Fireside Chat series aims to foster discussions on topics of broa
 
 | Name | Date | Notes link | Youtube link |
 | ----- | ---- |----------- | --------------- |
-| Adopting open source in Data Science and AI across sectors: Case study series | 2023-12-11 | [Etherpad]https://annuel2.framapad.org/p/ttw-fireside-chat-dec2023 / [Github](/notes/20231211-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=NdmkaRmY6jI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=4) |
+| Adopting open source in Data Science and AI across sectors: Case study series | 2023-12-11 | [Etherpad](https://annuel2.framapad.org/p/ttw-fireside-chat-dec2023) / [Github](/notes/20231211-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=NdmkaRmY6jI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=4) |
 | Who is building open source AI? | 2023-09-21 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-sept2023) / [Github](/notes/20230921-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=e8EBI1ocxt4&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=5) |
 | Between computation, climate and culture: perspectives on sustainability and research | 2023-06-29 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-june2023) / [Github](/notes/20230629-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=vrkFFswPGOE&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=6) |
 | Implementing open science at scale | 2023-05-05 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-may2023) / [Github](/notes/20230505-fireside-chat.md) | [Youtube](https://www.youtube.com/watch?v=8MnYZpwzpfU&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=7) |
