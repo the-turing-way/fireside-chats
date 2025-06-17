@@ -35,7 +35,7 @@ This archive is for _The Turing Way_'s Fireside Chats, which have been hosted si
 | Navigating Growth and Scale to Sustain Open Communities | 2022-07-29 | | [Youtube](https://www.youtube.com/watch?v=p0t_K5FNalU&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=12) |
 | Reflections, Replications and Perspectives from The Turing Way | 2022-06-30 | | [Youtube](https://www.youtube.com/watch?v=EeeRZZ3-Stc&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=13) |
 | Enabling Inclusive Research Conferencing in the 'Post-Pandemic Era' | 2022-04-29 | | [Youtube](https://www.youtube.com/watch?v=ImwJqo1zbMI&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=14) |
-| Emergent Roles in Resarch Infrastructure | 2022-02-11 | | [Youtube](https://www.youtube.com/watch?v=i3_GFRS-u-Q&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=15) |
+| Emergent Roles in Resarch Infrastructure | 2022-02-11 | [Etherpad](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022) / [Github](20220325-fireside-chats.md) | [Youtube](https://www.youtube.com/watch?v=i3_GFRS-u-Q&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=15) |
 | Gaps & Opportunities for Inclusive Multilingual Data Science | 2022-02-11 | | [Youtube](https://www.youtube.com/watch?v=Ydogg2tQljA&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=16) |
 
 ## 2021
